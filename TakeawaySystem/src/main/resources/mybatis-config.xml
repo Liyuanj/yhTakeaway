@@ -20,7 +20,7 @@
     </environments>
     <mappers>
         <!--加载sql映射文件-->
-<!--        <mapper resource="com/web/mapper/userMapper.xml"/>-->
+<!--        <mapper resource="com/yunheng/mapper/DishMapper.xml"/>-->
 
         <!--Mapper代理方式，包扫描-->
         <package name="com.yunheng.mapper"/>
